@@ -12,3 +12,4 @@ LeetCode
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)| [C](./algorithms/c/counting_bits_338.c)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)| [C](./algorithms/c/counting_bits_338)|Medium|
 |167|[Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [C](./algorithms/c/two_sum_II_167)|Medium|
+|260|[Single Number III](https://leetcode.com/problems/single-number-iii/)| [C](./algorithms/c/single_number_III_260)|Medium|
