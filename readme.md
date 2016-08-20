@@ -14,3 +14,4 @@ LeetCode
 |167|[Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [C](./algorithms/c/two_sum_II_167.c)|Medium|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)| [C](./algorithms/c/single_number_III_260.c)|Medium|
 |382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)| [C](./algorithms/c/linked_list_random_node_382.c)|Medium|
+|384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)| [C](./algorithms/c/shuffle_an_array_384.c)|Medium|
