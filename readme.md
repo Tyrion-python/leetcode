@@ -16,6 +16,6 @@ LeetCode
 |382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)| [C](./algorithms/c/linked_list_random_node_382.c)|Medium|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)| [C](./algorithms/c/shuffle_an_array_384.c)|Medium|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)| [C](./algorithms/c/product_of_array_except_self_238.c)|Medium|
-|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)| [C](./algorithms/c++/top_k_frequent_elements_347.cpp)|Medium|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)| [C++](./algorithms/c++/top_k_frequent_elements_347.cpp)|Medium|
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)| [C](./algorithms/c/count_numbers_with_unique_digits_357.c)|Medium|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [C](./algorithms/c/best_time_to_buy_and_sell_stock_ii_122.c)|Medium|
